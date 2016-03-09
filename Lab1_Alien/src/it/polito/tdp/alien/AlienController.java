@@ -29,7 +29,8 @@ public class AlienController {
     private Button btnTranslate;
     @FXML
     private Button btnReset;
-        
+    
+    private 
     
     @FXML // This method is called by the FXMLLoader when initialization is complete
     void initialize() {
